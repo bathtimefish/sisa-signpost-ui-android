@@ -1,0 +1,3 @@
+# ⚠️ JitPack の既定 JDK は古い。このライブラリは JVM 21 でビルドする。
+jdk:
+  - openjdk21

@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.kotlin/
+.DS_Store
+Thumbs.db
+# ⚠️ **モジュール名を直書きしない。** 名前を書く形は、モジュールを足した人が
+# 気づかないまま**ビルド成果物を git に載せる**（実際に一度やった）。
+build/
+/captures/
+.externalNativeBuild/
+.cxx/
